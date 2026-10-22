@@ -1,6 +1,6 @@
 # Minimal reproducibility package
 
-This author-prepared artifact reproduces the frozen core C1/C2 experiments of **Physical Information Budgets and Recursive Feasibility in Distributed Platoon Control**. Python3.12.14 and the pinned packages match the recorded environment. MATLAB is not required by this particular archived Python implementation. No GitHub URL or data DOI is asserted until the authors publish it.
+This author-prepared artifact reproduces the frozen core C1/C2 experiments of **Physical Information Budgets and Recursive Feasibility in Distributed Platoon Control**. Python3.12.14 and the pinned packages match the recorded environment. MATLAB is not required by this particular archived Python implementation. The code and data archive is publicly available at https://github.com/13573681375/trc-platoon-reproduction. No data DOI has been assigned or verified.
 
 ## Install and run
 
